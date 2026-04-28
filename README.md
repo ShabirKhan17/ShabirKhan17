@@ -1,6 +1,6 @@
 <h1 align="left">Hi there, I'm Shabir Khan! <img src="https://media.giphy.com/media/hvRJCLFzcasr14ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="left">Full-Stack Web Developer | Mahasiswa TRPL di Polibatam</h3>
+<h3 align="left">Backend Developer | Mahasiswa TRPL di Polibatam</h3>
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=0EA5E9&width=435&lines=Membangun+aplikasi+web+fungsional;Antusias+pada+Arsitektur+Database;Merancang+UI/UX+yang+interaktif" alt="Typing SVG" />
@@ -8,20 +8,35 @@
 
 ---
 
-### 👨‍💻 Tentang Saya
-- 🔭 Saat ini sedang fokus mengembangkan **AjuinAja** untuk Proyek *Project-Based Learning (PBL)*.
-- 🌱 Sedang memperdalam keahlian di bidang **PHP, Tailwind CSS, dan Manajemen Database**.
-- 💬 Tanyakan kepada saya tentang **pengembangan web, ERD, atau struktur navigasi dinamis**.
-- 📍 Berdomisili di **Batam, Kepulauan Riau, Indonesia**.
-- 📫 Hubungi saya via: [Email](mailto:email.kamu@gmail.com) atau [LinkedIn](https://linkedin.com/in/shabirkhan).
+<div style="display: flex; align-items: start; gap: 20px;">
+  <div style="flex: 1; text-align: left;">
+    <h3>👨‍💻 Tentang Saya</h3>
+    <p>• 🔭 Saat ini sedang fokus mengembangkan <b>MindFloox</b> untuk Proyek <i>Project-Based Learning (PBL)</i>.</p>
+    <p>• 🌱 Sedang memperdalam keahlian di bidang <b>PHP, Tailwind CSS, Laravel, Python dan Manajemen Database</b>.</p>
+    <p>• 📍 Berdomisili di <b>Batam, Kepulauan Riau, Indonesia</b>.</p>
+    <p>• 📫 Hubungi saya via:</p>
+    <p>
+      <a href="mailto:sabir.khij5@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+      <a href="https://instagram.com/username_ig_kamu">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+      </a>
+    </p>
+  </div>
+  <div style="text-align: right;">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRsaTY5bnJsemF1aDU0ZDZ2M2Z4NDVzMGVza2tpcDg5eW91NHo4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H4iqZDARtrqpOllEBz/giphy.gif" alt="Coding Meme" width="220" style="border-radius: 10px;">
+    <p align="right"><sup style="color: #6a737d;">*Pov: debugging PHP</sup></p>
+  </div>
+</div>
 
 ---
 
 ### 🎓 Riwayat Pendidikan
 * **Politeknik Negeri Batam (Polibatam)** | *2025 - Sekarang*
   > D4 Teknologi Rekayasa Perangkat Lunak (TRPL)
-* **[Nama SMU Anda]** | *2022 - 2025*
-  > [Sebutkan Jurusan Anda di sini, misal: Teknik Komputer dan Jaringan]
+* **SMK Negeri 7 Batam** | *2022 - 2025*
+  > Teknik Jaringan Akses dan Telekomunikasi (TJAT)
 
 ---
 
@@ -30,10 +45,6 @@
 #### 🌟 AjuinAja (Proyek PBL)
 Aplikasi layanan administrasi digital yang dirancang untuk mempermudah alur pengajuan dokumen. Sistem ini dilengkapi dengan registrasi pengguna, fitur *auto-generate ID*, dan logika validasi unggahan file (*if-else-if*) untuk memastikan dokumen sesuai standar administratif.
 > **Tech Stack:** *PHP, MySQL, CSS Frameworks*
-
-#### 📁 Proyek Pendukung Lainnya
-- **TerimaTamu Polibatam:** Sistem manajemen tamu kampus dengan fitur registrasi QR Code unik dan notifikasi *WhatsApp* otomatis untuk staf.
-- **Mindfloox UI:** Eksperimen *dashboard interface* interaktif. Menggunakan Tailwind CSS dan Livewire untuk menghasilkan navigasi responsif, efek *glow* saat di-hover, dan *inset shadows*.
 
 ---
 
@@ -47,9 +58,9 @@ Aplikasi layanan administrasi digital yang dirancang untuk mempermudah alur peng
 
 **Framework & Tools:**
 <p align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white" alt="Livewire" />
   <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
