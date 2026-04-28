@@ -3,7 +3,7 @@
 <h3 align="left">Backend Developer | Mahasiswa TRPL di Polibatam</h3>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=0EA5E9&width=435&lines=Membangun+aplikasi+web+fungsional;Antusias+pada+Arsitektur+Database;Merancang+UI/UX+yang+interaktif" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=0EA5E9&width=450&lines=Belajar+membangun+sistem+Backend;Antusias+pada+Arsitektur+Database;Terus+mengasah+logika+pemrograman" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,14 +19,14 @@
       <a href="mailto:sabir.khij5@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
       </a>
-      <a href="https://instagram.com/username_ig_kamu">
+      <a href="https://www.instagram.com/shiroro.rio?igsh=Z3ptNTJseTRmYTc4">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
       </a>
     </p>
   </div>
   <div style="text-align: right;">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRsaTY5bnJsemF1aDU0ZDZ2M2Z4NDVzMGVza2tpcDg5eW91NHo4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H4iqZDARtrqpOllEBz/giphy.gif" alt="Coding Meme" width="220" style="border-radius: 10px;">
-    <p align="right"><sup style="color: #6a737d;">*Pov: debugging PHP</sup></p>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRsaTY5bnJsemF1aDU0ZDZ2M2Z4NDVzMGVza2tpcDg5eW91NHo4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H4iqZDARtrqpOllEBz/giphy.gif" alt="Coding Meme" width="220" style="border-radius: 10px align-center;">
+    <p align="right"><sup style="color: #6a737d; text-center">*Pov: debugging PHP</sup></p>
   </div>
 </div>
 
