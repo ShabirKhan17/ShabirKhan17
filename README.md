@@ -21,10 +21,10 @@
     </p>
   </div>
   
-  <div style="background-color: #161b22; padding: 15px; border-radius: 15px; text-align: center; border: 1px solid #30363d;">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRsaTY5bnJsemF1aDU0ZDZ2M2Z4NDVzMGVza2tpcDg5eW91NHo4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H4iqZDARtrqpOllEBz/giphy.gif" alt="Coding Meme" width="200" style="border-radius: 10px;">
+  <div align="center" style="background-color: #161b22; padding: 15px; border-radius: 15px; border: 1px solid #30363d; min-width: 230px;">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRsaTY5bnJsemF1aDU0ZDZ2M2Z4NDVzMGVza2tpcDg5eW91NHo4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H4iqZDARtrqpOllEBz/giphy.gif" alt="Coding Meme" width="200" style="border-radius: 10px; display: block; margin: 0 auto;">
     <br>
-    <sup style="color: #8b949e; font-style: italic;">*Pov: debugging PHP</sup>
+    <span style="color: #8b949e; font-style: italic; font-size: 13px;">*Pov: debugging PHP</span>
   </div>
 </div>
 
