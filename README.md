@@ -8,25 +8,23 @@
 
 ---
 
-<div style="display: flex; align-items: start; gap: 20px;">
+<div style="display: flex; align-items: center; gap: 20px;">
   <div style="flex: 1; text-align: left;">
     <h3>👨‍💻 Tentang Saya</h3>
-    <p>• 🔭 Saat ini sedang fokus mengembangkan <b>MindFloox</b> untuk Proyek <i>Project-Based Learning (PBL)</i>.</p>
+    <p>• 🔭 Saat ini sedang fokus mengembangkan <b>MindFloox</b> untuk Proyek <i>Project-Based Learning (PBL) Semester 2</i>.</p>
     <p>• 🌱 Sedang memperdalam keahlian di bidang <b>PHP, Tailwind CSS, Laravel, Python dan Manajemen Database</b>.</p>
     <p>• 📍 Berdomisili di <b>Batam, Kepulauan Riau, Indonesia</b>.</p>
     <p>• 📫 Hubungi saya via:</p>
     <p>
-      <a href="mailto:sabir.khij5@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-      </a>
-      <a href="https://www.instagram.com/shiroro.rio?igsh=Z3ptNTJseTRmYTc4">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-      </a>
+      <a href="mailto:sabir.khij5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+      <a href="https://www.instagram.com/shiroro.rio?igsh=Z3ptNTJseTRmYTc4"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
     </p>
   </div>
-  <div style="text-align: right;">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRsaTY5bnJsemF1aDU0ZDZ2M2Z4NDVzMGVza2tpcDg5eW91NHo4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H4iqZDARtrqpOllEBz/giphy.gif" alt="Coding Meme" width="220" style="border-radius: 10px align-center;">
-    <p align="right"><sup style="color: #6a737d; text-center">*Pov: debugging PHP</sup></p>
+  
+  <div style="background-color: #161b22; padding: 15px; border-radius: 15px; text-align: center; border: 1px solid #30363d;">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRsaTY5bnJsemF1aDU0ZDZ2M2Z4NDVzMGVza2tpcDg5eW91NHo4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H4iqZDARtrqpOllEBz/giphy.gif" alt="Coding Meme" width="200" style="border-radius: 10px;">
+    <br>
+    <sup style="color: #8b949e; font-style: italic;">*Pov: debugging PHP</sup>
   </div>
 </div>
 
@@ -42,8 +40,8 @@
 
 ### 🚀 Proyek Portofolio
 
-#### 🌟 AjuinAja (Proyek PBL)
-Aplikasi layanan administrasi digital yang dirancang untuk mempermudah alur pengajuan dokumen. Sistem ini dilengkapi dengan registrasi pengguna, fitur *auto-generate ID*, dan logika validasi unggahan file (*if-else-if*) untuk memastikan dokumen sesuai standar administratif.
+#### 🌟 AjuinAja (Proyek PBL Semester 1)
+Aplikasi layanan administrasi digital yang dirancang untuk mempermudah alur pengajuan dokumen.
 > **Tech Stack:** *PHP, MySQL, CSS Frameworks*
 
 ---
