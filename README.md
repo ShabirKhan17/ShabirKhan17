@@ -1,9 +1,9 @@
-<h1 align="left">Hi there, I'm Shabir Khan! <img src="https://media.giphy.com/media/hvRJCLFzcasr14ia7z/giphy.gif" width="35"></h1>
+<h1 align="left">Hi there, I'm Shabir Khan!</h1>
 
-<h3 align="left">Backend Developer | Mahasiswa TRPL di Polibatam</h3>
+<h3 align="left">Full-Stack Web Developer (Learning) | Mahasiswa TRPL di Polibatam</h3>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=0EA5E9&width=450&lines=Belajar+membangun+sistem+Backend;Antusias+pada+Arsitektur+Database;Terus+mengasah+logika+pemrograman" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=0EA5E9&width=520&lines=Learning+Full-Stack+Web+Development;Exploring+Frontend+%26+Backend;Building+Small+Projects+with+Laravel+%26+MySQL" alt="Typing SVG"/>
 </p>
 
 ---
@@ -11,21 +11,33 @@
 <div style="display: flex; align-items: center; gap: 20px;">
   <div style="flex: 1; text-align: left;">
     <h3>👨‍💻 Tentang Saya</h3>
-    <p>• 🔭 Saat ini sedang fokus mengembangkan <b>MindFloox</b> untuk Proyek <i>Project-Based Learning (PBL) Semester 2</i>.</p>
+    <p>• 🔭 Saat ini sedang fokus mengembangkan <b>MindFloox</b> untuk Proyek <i>Project-Based Learning (PBL)</i> Semester 2.</p>
     <p>• 🌱 Sedang memperdalam keahlian di bidang <b>PHP, Tailwind CSS, Laravel, Python dan Manajemen Database</b>.</p>
     <p>• 📍 Berdomisili di <b>Batam, Kepulauan Riau, Indonesia</b>.</p>
     <p>• 📫 Hubungi saya via:</p>
     <p>
-      <a href="mailto:sabir.khij5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-      <a href="https://www.instagram.com/shiroro.rio?igsh=Z3ptNTJseTRmYTc4"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+      <a href="https://www.linkedin.com/in/shabir-khan-a35646406"><img src="https://img.shields.io/badge/LinkedIn-Shabir%20Khan-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
+      <a href="https://www.instagram.com/shiroro.rio?igsh=Z3ptNTJseTRmYTc4"><img src="https://img.shields.io/badge/Instagram-@shiroro.rio-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
     </p>
   </div>
-  
-  <div align="center" style="background-color: #161b22; padding: 15px; border-radius: 15px; border: 1px solid #30363d; min-width: 230px;">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRsaTY5bnJsemF1aDU0ZDZ2M2Z4NDVzMGVza2tpcDg5eW91NHo4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H4iqZDARtrqpOllEBz/giphy.gif" alt="Coding Meme" width="200" style="border-radius: 10px; display: block; margin: 0 auto;">
-    <br>
-    <span style="color: #8b949e; font-style: italic; font-size: 13px;">*Pov: debugging PHP</span>
-  </div>
+ <table align="center">
+  <tr>
+    <!-- Frontend -->
+    <td align="center">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV2bXFsYnM5bXhxNjhzMDF1NmtjMnNobmF3NGE4Z25mbDg1bXZpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9kvsN0C79KjJqNUPHj/giphy.gif" width="200" style="border-radius:10px;"><br>
+      <sub><i>Frontend</i></sub>
+    </td>
+
+  <!-- Divider -->
+  <td style="border-left: 2px solid #30363d;"></td>
+
+  <!-- Backend -->
+  <td align="center">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpzeWpmOW1lYTl6a3puOTJua3c5dHpjZzVzMnF4YWhkYTJxOWY4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NR7mbKbnhnwAQ4Tsjq/giphy.gif" width="200" style="border-radius:10px;"><br>
+      <sub><i>Backend</i></sub>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
@@ -38,11 +50,11 @@
 
 ---
 
-### 🚀 Proyek Portofolio
+### 🚀 Riwayat Pengerjaan Proyek
 
 #### 🌟 AjuinAja (Proyek PBL Semester 1)
-Aplikasi layanan administrasi digital yang dirancang untuk mempermudah alur pengajuan dokumen.
-> **Tech Stack:** *PHP, MySQL, CSS Frameworks*
+Aplikasi layanan administrasi untuk mempermudah proses pengajuan dokumen dan surat secara online. Dilengkapi fitur registrasi dan validasi yang sistematis.
+> **Tech Stack:** *PHP dan MySQL*
 
 ---
 
